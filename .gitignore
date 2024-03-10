@@ -1,0 +1,9 @@
+.DS_Store
+basemodel.pth
+oi/** 
+
+CrackDetection-App/__pycache__/demo.cpython-311.pyc
+CrackDetection-App/static/.rsc/** 
+test/*
+CrackDetection-App/static/__pycache__/files.cpython-311.pyc
+CrackDetection-App/CrackDetection-App/uploads/** 
